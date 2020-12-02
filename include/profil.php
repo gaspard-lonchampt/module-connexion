@@ -146,7 +146,6 @@ catch (PDOException $e) {
 
 					<input type="submit" name="register" value="Modifier vos informations">
 				</form>
-                <p>Vous devrez vous reconnecter pour voir vos informations actualisés</p>
 			</div>
 		</div>
 		<ul class="colorlib-bubbles">
